@@ -26,3 +26,14 @@ func findSumOfNaturalNumbers(upto num: Int) -> Int {
 }
 
 print(findSumOfNaturalNumbers(upto: 10))
+
+// MARK: - Solution Pseudocode with recursion
+
+func findSumThroughRecursion(upto num: Int) -> Int {
+    if num <= 0 {
+        return 0
+    }
+    return num + findSumThroughRecursion(upto: num - 1)
+}
+
+print(findSumThroughRecursion(upto: 100))
