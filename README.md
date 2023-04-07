@@ -23,3 +23,7 @@ find Majority Element with occurence at least n/2 or more times
 ## problem6
 
 find Max Sub Array Sum
+
+## problem7
+
+reverse string
