@@ -28,6 +28,6 @@ find Max Sub Array Sum
 
 reverse string
 
-## problemu8
+## problem8
 
 given number is armstrong or not?
