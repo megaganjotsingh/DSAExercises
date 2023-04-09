@@ -31,3 +31,7 @@ reverse string
 ## problem8
 
 given number is armstrong or not?
+
+## problem9
+
+reverse word of a given sentance if it has more than 4 characters
